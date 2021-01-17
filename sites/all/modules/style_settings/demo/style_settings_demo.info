@@ -1,0 +1,13 @@
+name = Style Settings demo
+description = A working example of a settings page for CSS variables.
+core = 7.x
+
+dependencies[] = style_settings
+dependencies[] = image
+
+; Information added by Drupal.org packaging script on 2016-03-04
+version = "7.x-2.0"
+core = "7.x"
+project = "style_settings"
+datestamp = "1457081640"
+

@@ -1,0 +1,13 @@
+name = Style Settings Simplytest
+description = A Simplytest.me demo for this module.
+core = 7.x
+hidden = TRUE
+
+dependencies[] = style_settings_demo
+
+; Information added by Drupal.org packaging script on 2016-03-04
+version = "7.x-2.0"
+core = "7.x"
+project = "style_settings"
+datestamp = "1457081640"
+
